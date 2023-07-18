@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="../favicon.png" />
+		<link rel="stylesheet" href="theme.css">
+		<meta name="viewport" content="width=device-width" />
+		
+	<style data-sveltekit>body {
+    background-color: #EA445A;
+    color: white;
+    font-size: 17px;
+}
+
+article {
+    background-color: #74F0ED;
+    color: black;
+    padding: 20px;
+}
+article.s-dPxS4u1kW78Q{outline-width:2px;outline-style:dashed;padding:10px;max-width:650px;margin-bottom:20px;margin-top:20px;margin-left:10%;margin-right:auto;word-wrap:break-word}#mascot.s-dPxS4u1kW78Q{position:fixed;right:10px;width:270px;bottom:0px}.s-dPxS4u1kW78Q{}</style>
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">  <a href="/subcultures" class="s-dPxS4u1kW78Q">&lt;- back</a>   <div style="width:800px; margin: auto" class="s-dPxS4u1kW78Q"><article style="margin-left: 0px" class="s-dPxS4u1kW78Q"><em style="font-size: 14px;" class="s-dPxS4u1kW78Q">(1/20/1970, 7:10:33 AM)<br class="s-dPxS4u1kW78Q">Subject: TPOT accounts to follow </em><p class="s-dPxS4u1kW78Q"></p> <!-- HTML_TAG_START -->I&#039;m currently banned from Twitter for 24 hours (pic related).<br /><br />This is a list of accounts I want to follow when I get back:<br /><br />https://twitter.com/0xffbit<br />https://twitter.com/michaelcurzi<br />(per my /mu/ thread imma contact this guy anyway, but...): https://twitter.com/Malcolm<em>Ocean<br />https://twitter.com/vibecamp</em><br />https://twitter.com/AlexCaswen<br />https://twitter.com/<em>ylareia<br />https://twitter.com/griptonite</em><br />https://twitter.com/worldrotator<br />https://twitter.com/edgold369<br />https://twitter.com/BellaRudd1<br />https://twitter.com/empathy2000<br /><br />Lots of these people: https://hive.one/c/rationalism-and-tpot<!-- HTML_TAG_END --></article> </div> Looks like there isn&#39;t anything here yet! <img id="mascot" src="/mascots/subcultures.png" onerror="this.style.display='none'" class="s-dPxS4u1kW78Q"> 
+			
+			<script>
+				{
+					__sveltekit_dev = {
+						base: new URL("..", location).pathname.slice(0, -1),
+						env: {}
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [null,null,null];
+
+					Promise.all([
+						import("/node_modules/@sveltejs/kit/src/runtime/client/start.js"),
+						import("/@fs/Users/eliana/my-app/.svelte-kit/generated/client/app.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 2, 5],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>

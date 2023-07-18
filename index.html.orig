@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="./favicon.png" />
+		<link rel="stylesheet" href="theme.css">
+		<meta name="viewport" content="width=device-width" />
+		
+	<style data-sveltekit>body {
+    background-color: #EA445A;
+    color: white;
+    font-size: 17px;
+}
+
+article {
+    background-color: #74F0ED;
+    color: black;
+    padding: 20px;
+}</style>
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">  <article style="width: 70%; margin: auto;"><h1 data-svelte-h="svelte-1wae7yj">Welcome to Blogchan</h1>
+Blogchan is an imageboard for static blogging, developed by <a target="_blank" href="https://twitter.com/cereal_xp" data-svelte-h="svelte-1nfk5zc">me</a>.
+<p data-svelte-h="svelte-16o7bwu">Read my thoughts on various topics:</p> <p style="margin-left: 15px">- <a href="/code">/code</a> </p><p style="margin-left: 15px">- <a href="/music">/music</a> </p><p style="margin-left: 15px">- <a href="/subcultures">/subcultures</a> </p><p style="margin-left: 15px">- <a href="/dissent">/dissent</a> </p> <p data-svelte-h="svelte-1gtj592">ps this is NOT foss. Never ask a girl for her source code ;P</p></article> 
+			
+			<script>
+				{
+					__sveltekit_dev = {
+						base: new URL(".", location).pathname.slice(0, -1),
+						env: {}
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [null,null];
+
+					Promise.all([
+						import("/node_modules/@sveltejs/kit/src/runtime/client/start.js"),
+						import("/@fs/Users/eliana/my-app/.svelte-kit/generated/client/app.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 3],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>

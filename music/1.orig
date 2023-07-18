@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="../favicon.png" />
+		<link rel="stylesheet" href="theme.css">
+		<meta name="viewport" content="width=device-width" />
+		
+	<style data-sveltekit>body {
+    background-color: #EA445A;
+    color: white;
+    font-size: 17px;
+}
+
+article {
+    background-color: #74F0ED;
+    color: black;
+    padding: 20px;
+}
+article.s-dPxS4u1kW78Q{outline-width:2px;outline-style:dashed;padding:10px;max-width:650px;margin-bottom:20px;margin-top:20px;margin-left:10%;margin-right:auto;word-wrap:break-word}#mascot.s-dPxS4u1kW78Q{position:fixed;right:10px;width:270px;bottom:0px}.s-dPxS4u1kW78Q{}</style>
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">  <a href="/music" class="s-dPxS4u1kW78Q">&lt;- back</a>   <div style="width:800px; margin: auto" class="s-dPxS4u1kW78Q"><article style="margin-left: 0px" class="s-dPxS4u1kW78Q"><em style="font-size: 14px;" class="s-dPxS4u1kW78Q">(1/20/1970, 7:10:23 AM)<br class="s-dPxS4u1kW78Q">Subject: Song ideas </em><p class="s-dPxS4u1kW78Q"></p> <!-- HTML_TAG_START -->This is a thread where I&#039;ll post topics, lyrics, and other things I want to make music about<!-- HTML_TAG_END --></article> </div> <h1 class="s-dPxS4u1kW78Q" data-svelte-h="svelte-1mu7fp6">Replies</h1> <article style="margin-left: 4%; width: 1000px; max-width: 800px; margin-bottom: 8px; margin-top: 8px;" class="s-dPxS4u1kW78Q"><em style="font-size: 14px" class="s-dPxS4u1kW78Q">(1/20/1970, 7:10:25 AM)</em><br class="s-dPxS4u1kW78Q"><br class="s-dPxS4u1kW78Q"> <!-- HTML_TAG_START --><strong>I&#039;m a little TPOT</strong><br /><br />Sing the glories of TPOT and the postrat scene on Twitter.<br /><br />Mandatory reference: <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">HTTP error code 418 (I&#039;m a teapot)</a><br /><br />What else?<br /><br />Is this even worth it? Making friends online is too hard. I just wanna be a cool tpot girl ;<em>;</em><!-- HTML_TAG_END --></article> <div style="margin: 0px; line-height: 13px; margin-left: 160px" class="s-dPxS4u1kW78Q">|<br class="s-dPxS4u1kW78Q">|<br class="s-dPxS4u1kW78Q">|<br class="s-dPxS4u1kW78Q"></div><article style="margin-left: 4%; width: 1000px; max-width: 800px; margin-bottom: 8px; margin-top: 8px;" class="s-dPxS4u1kW78Q"><em style="font-size: 14px" class="s-dPxS4u1kW78Q">(1/20/1970, 7:10:26 AM)</em><br class="s-dPxS4u1kW78Q"><br class="s-dPxS4u1kW78Q"> <!-- HTML_TAG_START --><em>Scott Alexander&#039;s mother is a Sumerian demon named Lamashtu</em><br /> In this song, Julia Galef and Aella are actually his nieces. It&#039;ll be a blues (bc I only do blues)<br /><br />call<br />response<br />call<br />response<br />outcall<br /><br />solo around for the bridge, in a minor blues. Include audios of interesting rationalist stuff (julia galef, aella, <br /><br /><br />Notes:<br />Be much sneakier in my antisemitism (compared to the NATO song)<br /><br />Great is the daughter of Heaven who tortures babies<br />Her hand is a net, her embrace is death<br />She is cruel, raging, angry, predatory<br />A runner, a thief is the daughter of Heaven<br />She touches the bellies of women in labor<br />She pulls out the pregnant women&#039;s baby<br />The daughter of Heaven is one of the Gods, her brothers<br />With no child of her own.<br />Her head is a lion&#039;s head<br />Her body is a donkey&#039;s body<br />She roars like a lion<br />She constantly howls like a demon-dog<br /><!-- HTML_TAG_END --></article> <div style="margin: 0px; line-height: 13px; margin-left: 160px" class="s-dPxS4u1kW78Q">|<br class="s-dPxS4u1kW78Q">|<br class="s-dPxS4u1kW78Q">|<br class="s-dPxS4u1kW78Q"></div><article style="margin-left: 4%; width: 1000px; max-width: 800px; margin-bottom: 8px; margin-top: 8px;" class="s-dPxS4u1kW78Q"><em style="font-size: 14px" class="s-dPxS4u1kW78Q">(1/20/1970, 7:10:30 AM)</em><br class="s-dPxS4u1kW78Q"><br class="s-dPxS4u1kW78Q"> <!-- HTML_TAG_START -->I&#039;m not really the first to write TPOT music. Someone made a TPOT original soundtrack. Coal Bones. <br />https://soundcloud.com/coalbones/readmetxt<!-- HTML_TAG_END --></article> <div style="margin: 0px; line-height: 13px; margin-left: 160px" class="s-dPxS4u1kW78Q">|<br class="s-dPxS4u1kW78Q">|<br class="s-dPxS4u1kW78Q">|<br class="s-dPxS4u1kW78Q"></div> <img id="mascot" src="/mascots/music.png" onerror="this.style.display='none'" class="s-dPxS4u1kW78Q"> 
+			
+			<script>
+				{
+					__sveltekit_dev = {
+						base: new URL("..", location).pathname.slice(0, -1),
+						env: {}
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [null,null,null];
+
+					Promise.all([
+						import("/node_modules/@sveltejs/kit/src/runtime/client/start.js"),
+						import("/@fs/Users/eliana/my-app/.svelte-kit/generated/client/app.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 2, 5],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>

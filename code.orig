@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="./favicon.png" />
+		<link rel="stylesheet" href="theme.css">
+		<meta name="viewport" content="width=device-width" />
+		
+	<style data-sveltekit>body {
+    background-color: #EA445A;
+    color: white;
+    font-size: 17px;
+}
+
+article {
+    background-color: #74F0ED;
+    color: black;
+    padding: 20px;
+}
+.s-9LhCRi234HyE{}
+@media screen and (min-width: 500px){#replyhint.s-3BymkgsOFdQt{margin-left:50px}article.s-3BymkgsOFdQt{outline-width:2px;outline-style:dashed;padding:10px;max-width:800px;margin-bottom:20px;margin-top:20px;margin-left:2%;margin-right:auto;overflow-wrap:break-word}#mascot.s-3BymkgsOFdQt{position:fixed;right:10px;width:270px;bottom:0px}h1.s-3BymkgsOFdQt{font-size:3.4em;margin:20px}h2.s-3BymkgsOFdQt{margin:0px;font-size:15px;font-style:normal;font-weight:normal}}#replyhint.s-3BymkgsOFdQt{vertical-align:top}#imgcel.s-3BymkgsOFdQt{width:0.1%;white-space:nowrap;padding-right:5px}.s-3BymkgsOFdQt{}</style>
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">  <nav class="s-9LhCRi234HyE"><a href="/" class="s-9LhCRi234HyE" data-svelte-h="svelte-mvto1r">🏠 - home</a>  | <a href="/code" class="s-9LhCRi234HyE">code</a> | <a href="/music" class="s-9LhCRi234HyE">music</a> | <a href="/subcultures" class="s-9LhCRi234HyE">subcultures</a> | <a href="/dissent" class="s-9LhCRi234HyE">dissent</a></nav> <div style="width: 280px; margin: auto;" class="s-3BymkgsOFdQt"><center class="s-3BymkgsOFdQt"><h1 class="glitch s-3BymkgsOFdQt">/code</h1></center> </div> <hr class="s-3BymkgsOFdQt">  <article style="margin-bottom: 0px; display: grid" class="s-3BymkgsOFdQt"><table class="s-3BymkgsOFdQt"><tr class="s-3BymkgsOFdQt"><td id="imgcel" class="s-3BymkgsOFdQt"><a href="/static/uploads/code-1.png" class="s-3BymkgsOFdQt"><img style="max-height:100px;max-width:100px;height:auto;width:auto;" src="/static/uploads/code-1.png" onerror="this.style.display = 'none'" class="s-3BymkgsOFdQt"></a></td> <td class="s-3BymkgsOFdQt"><h2 class="s-3BymkgsOFdQt"><em class="s-3BymkgsOFdQt">(1/20/1970, 7:21:55 AM)<br class="s-3BymkgsOFdQt"></em> <b class="s-3BymkgsOFdQt">my pgp key for yaw key</b> | <em class="s-3BymkgsOFdQt">(3 replies)</em> | <a href="/code/1" class="s-3BymkgsOFdQt">Open thread</a></h2> <br class="s-3BymkgsOFdQt"><!-- HTML_TAG_START -->~eli@/crypto $ gpg --armor --export elianamadeiros@finalnet.com.gt <br /><br />-----BEGIN PGP PUBLIC KEY BLOCK-----<br /><br />mDMEZLcAsxYJKwYBBAHaRw8BAQdAfp/+tkfACR+r5BItxvDb8muKdI+08brI/J4M<br />vKWBMjO0KWVsaWFuYSBtIDxlbGlhbmFtYWRlaXJvc0BmaW5hbG5ldC5jb20uZ3Q+<br />iJkEExYKAEEWIQS03yykePMRcOnlxuheeWByAZe90gUCZLcAswIbAwUJA8JnAAUL<br />CQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRBeeWByAZe90loDAP9VE3mgYdDR<br />5csh2VgFcmE9JFytB0lbFAZAhE5+d+z0QwEAin2NmcYLgagPXu5afSuvEtRgCWBv<br />J9zvd+du91T7AAe4OARktwCzEgorBgEEAZdVAQUBAQdAO5uPRve4EXPNms7CGzGS<br />um/oS9MCe9+b2ZayC62MPAkDAQgHiH4EGBYKACYWIQS03yykePMRcOnlxuheeWBy<br />AZe90gUCZLcAswIbDAUJA8JnAAAKCRBeeWByAZe90kujAQComF1NKb1EuLYYuQvk<br />mPGvdC94sKea3pGSBMNho8qMHgEA1Yp5P8a70AXlGpG+Gy3KmIx+1TLsAQntWva4<br />BulLVw8=<br />=ILCq<br />-----END PGP PUBLIC KEY BLOCK-----<!-- HTML_TAG_END --></td></tr> </table></article>  <table id="replyhint" class="s-3BymkgsOFdQt"><tr class="s-3BymkgsOFdQt"><td style="padding: 0px" class="s-3BymkgsOFdQt"><div style="margin-top: 0px; line-height: 8px;" class="s-3BymkgsOFdQt">|<br class="s-3BymkgsOFdQt">|<br class="s-3BymkgsOFdQt">|<br class="s-3BymkgsOFdQt">|<br class="s-3BymkgsOFdQt">|<br class="s-3BymkgsOFdQt">|<br class="s-3BymkgsOFdQt">|<br class="s-3BymkgsOFdQt">|_________
+            </div></td> <td style="padding-top: 10px;width: 800px" class="s-3BymkgsOFdQt">
+            (2 hidden)  Most recent reply,
+            <article style="margin: 0px; " class="s-3BymkgsOFdQt"><em style="font-size: 14px" class="s-3BymkgsOFdQt">(1/20/1970, 7:21:56 AM)<br class="s-3BymkgsOFdQt"><br class="s-3BymkgsOFdQt"></em> <!-- HTML_TAG_START -->ok its fixed now. the problem was i didn&#039;t set <code>word-wrap</code> in the +page.svelte for <a href="undefined">reply</a><!-- HTML_TAG_END --></article> </td></tr> </table> <hr class="s-3BymkgsOFdQt"> <img id="mascot" src="/mascots/code.png" onerror="this.style.display='none'" class="s-3BymkgsOFdQt"> 
+			
+			<script>
+				{
+					__sveltekit_dev = {
+						base: new URL(".", location).pathname.slice(0, -1),
+						env: {}
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [null,null];
+
+					Promise.all([
+						import("/node_modules/@sveltejs/kit/src/runtime/client/start.js"),
+						import("/@fs/Users/eliana/my-app/.svelte-kit/generated/client/app.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 4],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>
